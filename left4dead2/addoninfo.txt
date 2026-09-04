@@ -1,26 +1,27 @@
 "AddonInfo"
 {
-	AddonTitle "xdR BGT Tank anims"
-	AddonVersion "1"
-	AddonDescription "Slot 006"
-	AddonAuthor "Minnie Mouse"
-	AddonAuthorSteamID "https://steamcommunity.com/profiles/76561198806171279"
-	AddonURL0 "https://steamcommunity.com/profiles/76561198806171279/myworkshopfiles/"
-	AddonSteamAppID 550
+	AddonTitle          "xdReanimsBase"
+	AddonVersion        "2.0"
+	AddonDescription    "Base dependency for re-animations mods"
+	AddonAuthor         "xDShot"
+	AddonAuthorSteamID  "xdshot2"
+	AddonURL0           "https://steamcommunity.com/sharedfiles/filedetails/?id=2121557118"
+
+	AddonSteamAppID  550
+
 	AddonContent_BackgroundMovie 0
-	AddonContent_BossInfected 1
-	AddonContent_Campaign 0
-	AddonContent_CommonInfected 1
-	AddonContent_Map 0
-	AddonContent_Music 0
-	AddonContent_Prefab 0
-	AddonContent_Prop 0
-	AddonContent_Script 0
-	AddonContent_Skin 1
-	AddonContent_Sound 0
-	AddonContent_Spray 0
-	AddonContent_Survivor 0
-	AddonContent_Weapon 0
+	AddonContent_BossInfected    1
+	AddonContent_Campaign        0
+	AddonContent_CommonInfected  1
+	AddonContent_Map      0
+	AddonContent_Music    0
+	AddonContent_Prefab   0
+	AddonContent_Prop     0 
+	AddonContent_Script   0
+	AddonContent_Skin     1
+	AddonContent_Sound    0
+	AddonContent_Spray    0
+	AddonContent_Survivor 1
+	AddonContent_Weapon      0 
 	AddonContent_WeaponModel 0
 }
-
